@@ -11,16 +11,6 @@
   <strong>❤️ 人生 Archeolog 😭<strong>
 </p>
 
-<br>
-<p align="center">
-  <picture>
-  </picture>
-
-  <br>
-  <picture>
-  </picture>
-</p>
-
 <details open align="center">
   <summary>Socials</summary>
   <a href="https://discordapp.com/users/1372872683100049511">
