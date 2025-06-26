@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="https://www.youtube.com/@archeologofthisearth">
-    <img src="https://skillicons.dev/icons?i=youtube&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=yt&theme=dark"/>
   </a>
   <a href="https://discord.gg/knCjnEN2nx">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
