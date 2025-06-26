@@ -2,7 +2,9 @@
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,idea,cs,vscode,visualstudio,pycharm,cpp,dotnet,python&theme=dark"/" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,csharp,pycharm,idea&theme=dark"/" />
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,&theme=dark"/" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,kotlin&theme=dark"/" />
   </a>
 </p>
 <h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">リヴリー!!!</p></span></h1>
