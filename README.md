@@ -26,7 +26,7 @@
 
 ###
 
-<h6><span title="❤️ 人生 Archeolog 😭"><p align="right">ロリコン</p></span></h6>
+<h6><span title="❤️ 人生 Archeolog 😭"><p align="center">ロリコン</p></span></h6>
 
 ###
 
