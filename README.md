@@ -1,6 +1,6 @@
 <!-- Twitter when? -->
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
-<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea,csharp,cpp,dotnet,python&theme=dark"/>
+<img height="40" align="left" src="https://skillicons.dev/icons?i=java,kotlin,idea,cs,vscode,visualstudio,pycharm,cpp,dotnet,python&theme=dark"/>
 <h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">リヴリー!!!</p></span></h1>
 
 <br>
