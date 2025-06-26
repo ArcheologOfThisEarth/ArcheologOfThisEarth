@@ -1,6 +1,7 @@
 <!-- Twitter when? -->
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
 <h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">リヴリー!!!</p></span></h1>
+###
 <p img height="40" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
@@ -17,6 +18,8 @@
   </a>
 </p>
 
+###
+
 <br>
 <p align="center">
   <span title="Archeolog Of Swag">
@@ -24,6 +27,8 @@
   </span><br><br>
   <strong>❤️ 人生 Archeolog 😭<strong>
 </p>
+
+###
 
 <details open align="center">
   <summary>Socials</summary>
