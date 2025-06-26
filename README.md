@@ -37,8 +37,8 @@
   <a href="https://discordapp.com/users/1372872683100049511">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
-  <a href="https://www.hiraeth.tech/">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
+  <a href="https://www.youtube.com/@archeologofthisearth">
+    <img src="https://skillicons.dev/icons?i=youtube&theme=dark"/>
   </a>
   <a href="https://discord.gg/knCjnEN2nx">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
