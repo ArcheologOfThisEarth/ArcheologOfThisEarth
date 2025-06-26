@@ -1,5 +1,5 @@
-<h3><span title="Archeolog"><p align="right">私は使用します</p></span></h3>
-<p img height="40" align="left">
+<h3><span title="Archeolog"><p align="left">私は使用します</p></span></h3>
+<p img height="50" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
   </a>
