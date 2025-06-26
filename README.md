@@ -16,8 +16,6 @@
 </p>
 <h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">考古学者!!!</p></span><h1>
 
-###
-
 <br>
 <p align="center">
   <span title="Archeolog Of Swag">
