@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <span title="Archeolog Of Swag">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h5c3ZiOG42dDNhbWk4aXI3YXZjY2ozMHF1N2wwc2p0YzFkZXZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgCMa32swQyl3SnM6c/giphy.gif"/>
+    <img src="https://i.pinimg.com/originals/4f/8c/4e/4f8c4eb34c6be9c45abf9043cc5aec9b.gif&width=1050&height=450"/>
   </span><br><br>
   <strong>❤️ 人生 Archeolog 😭<strong>
 </p>
