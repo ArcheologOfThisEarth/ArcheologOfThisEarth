@@ -34,11 +34,11 @@
 
 <details open align="center">
   <summary>Socials</summary>
-  <a href="https://discordapp.com/users/1372872683100049511">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
-  </a>
   <a href="https://www.youtube.com/@archeologofthisearth">
     <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
+  </a>
+  <a href="https://discordapp.com/users/1372872683100049511">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmzrcwnHdzchXlsGNDjcmGmWFsGSHsLlTVSwbchgGfPXwQDkTvXSLJVkCsDJSVmrnlRpdH">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
