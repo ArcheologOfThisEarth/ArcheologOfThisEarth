@@ -1,5 +1,4 @@
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
-<h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">考古学者!!!</p></span><h1>
 <p img height="40" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
@@ -15,6 +14,7 @@
     <img src="https://skillicons.dev/icons?i=dotnet,git,kotlin&theme=dark"/" />
   </a>
 </p>
+<h1><span title="によって所有されています!!!💢💢によって所有されています!!!💢"><p align="right">考古学者!!!</p></span><h1>
 
 ###
 
