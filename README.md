@@ -1,4 +1,4 @@
-<h3><span title="私は使用します"><p align="right">ロリコン</p></span></h3>
+<h3><span title="Archeolog"><p align="right">私は使用します/p></span></h3>
 <p img height="40" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
