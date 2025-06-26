@@ -2,12 +2,12 @@
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,csharp,pycharm,idea&theme=dark"/" />
+    <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,python&theme=dark"/" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,idea&theme=dark"/" />
   </a>
 </p>
 <p align="center">
