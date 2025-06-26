@@ -38,9 +38,9 @@
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="https://www.youtube.com/@archeologofthisearth">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg"/>
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark"/>
   </a>
-  <a href="https://discord.gg/knCjnEN2nx">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmzrcwnHdzchXlsGNDjcmGmWFsGSHsLlTVSwbchgGfPXwQDkTvXSLJVkCsDJSVmrnlRpdH">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
   <br>
