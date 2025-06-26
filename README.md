@@ -1,4 +1,4 @@
-<h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
+<h5><span title="私は使用します"><p align="right">ロリコン</p></span></h5>
 <p img height="40" align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
