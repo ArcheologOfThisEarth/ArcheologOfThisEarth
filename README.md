@@ -3,7 +3,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,csharp,pycharm,idea&theme=dark"/" />
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,&theme=dark"/" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,python&theme=dark"/" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,git,kotlin&theme=dark"/" />
   </a>
 </p>
