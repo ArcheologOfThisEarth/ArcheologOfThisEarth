@@ -1,16 +1,16 @@
 <!-- Twitter when? -->
 <h6><span title="ロリ・レイプ"><p align="right">ロリコン</p></span></h6>
-<p align="center">
+<p img height="40" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,python&theme=dark"/" />
   </a>
 </p>
-<p align="center">
+<p img height="40" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,idea&theme=dark"/" />
   </a>
 </p>
-<p align="center">
+<p img height="40" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,git,kotlin&theme=dark"/" />
   </a>
